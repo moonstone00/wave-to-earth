@@ -1,4 +1,1 @@
-primary nya pakai email saja karena email tidak mungkin ada yang sama
 
-ada satu bug yaitu,
-dimana ketika kita mendaftarkan email dan email tersebut aslinya tidak ada maka akan tetap bisa masuk = Bisa pakai firebase
