@@ -1,3 +1,6 @@
+![alt text](https://github.com/moonstone00/wave-to-earth/blob/main/public/pict1.png?raw=true)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
