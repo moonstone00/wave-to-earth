@@ -2,6 +2,10 @@
 
 ![alt text](https://github.com/moonstone00/wave-to-earth/blob/main/public/pict2.png?raw=true)
 
+![alt text](https://github.com/moonstone00/wave-to-earth/blob/main/public/pict3.png?raw=true)
+
+![alt text](https://github.com/moonstone00/wave-to-earth/blob/main/public/pict4.png?raw=true)
+
 
 # Getting Started with Create React App
 
